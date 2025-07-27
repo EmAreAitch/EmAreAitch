@@ -42,8 +42,8 @@ It uses a non-monolithic Rails API with a React/Vite/Material UI frontend. Playe
 There is a custom Ruby chess engine for move validation and sync, plus a low-memory Fairy Stockfish AI for bot opponents.  
 A centralized Game Manager (DRb) keeps multiple games in sync across workers and lets anyone start playing almost instantly.
 
-[GitHub Repo](https://github.com/EmAreAitch/rails_chess)
-[GitHub Repo](https://github.com/EmAreAitch/react_chess)
+[Backend Repo](https://github.com/EmAreAitch/rails_chess)
+[Frontend Repo](https://github.com/EmAreAitch/react_chess)
 
 ---
 
